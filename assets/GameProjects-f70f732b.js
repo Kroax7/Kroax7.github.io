@@ -1,4 +1,4 @@
-import{P as e,a as t}from"./ProjectData-eb1bac19.js";import{d as l,_ as r,r as o,c as n,e as c,a,o as p}from"./index-38c05f7e.js";const m=[new e("project-aitd","Alone in the Dark","img/projects/aitd/pk.png",`
+import{P as e,a as t}from"./ProjectData-fd05df31.js";import{d as l,_ as r,r as o,c as n,e as c,a,o as p}from"./index-709f02ac.js";const m=[new e("project-aitd","Alone in the Dark","img/projects/aitd/pk.png",`
     <div class="paragraph">
         <strong>Alone in the Dark</strong> is a third person survival horror game released in 2024 and developed by Pieces interactive, published by THQ Nordic. 
         <br/>Developed in <strong>Unreal Engine</strong> and available on on <a href="https://store.steampowered.com/app/1310410/Alone_in_the_Dark/" target="_blank">PC</a>,       
