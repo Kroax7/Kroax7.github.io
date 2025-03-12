@@ -1,1 +1,0 @@
-import{_,c as o,o as s,F as a,p as n,f as d,a as t}from"./index-205f7d38.js";const p={},c=e=>(n("data-v-c4f74da3"),e=e(),d(),e),r=c(()=>t("div",{class:"http-404"},"404 🔌️",-1)),l=c(()=>t("div",null,"Something went wrong.",-1));function f(e,i){return s(),o(a,null,[r,l],64)}const h=_(p,[["render",f],["__scopeId","data-v-c4f74da3"]]);export{h as default};
